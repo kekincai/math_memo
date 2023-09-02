@@ -1,0 +1,10 @@
+---
+title: "Contemporary Abstract Algebra note"
+author: "金太阳无敌"
+date: "2023/09/03"
+categories: [抽象代数]
+# image: "image.jpg"
+---
+
+# 抽象代数笔记
+
