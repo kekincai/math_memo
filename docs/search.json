@@ -18,7 +18,7 @@
     "href": "posts/ContemporaryAbstractAlgebra/index.html",
     "title": "Contemporary Abstract Algebra note",
     "section": "",
-    "text": "抽象代数笔记"
+    "text": "The whole of science is nothing more than a reﬁnement of everyday thinking.\nAlbert Einstein, Physics and Reality\n\n\nWell Ordering Principle\n\nEvery nonempty set of positive integers contains a smallest member.\n\nGreatest Common Divisor, Relatively Prime Integers\n\nThe greatest common divisor of two nonzero integers a and b is the largest of all common divisors of a and b. We denote this integer by gcd(a, b). When gcd(a, b) = 1, we say a and b are relatively prime."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "关于",
     "section": "",
     "text": "我的数学笔记"
+  },
+  {
+    "objectID": "posts/ContemporaryAbstractAlgebra/index.html#preliminaries",
+    "href": "posts/ContemporaryAbstractAlgebra/index.html#preliminaries",
+    "title": "Contemporary Abstract Algebra note",
+    "section": "",
+    "text": "The whole of science is nothing more than a reﬁnement of everyday thinking.\nAlbert Einstein, Physics and Reality\n\n\nWell Ordering Principle\n\nEvery nonempty set of positive integers contains a smallest member.\n\nGreatest Common Divisor, Relatively Prime Integers\n\nThe greatest common divisor of two nonzero integers a and b is the largest of all common divisors of a and b. We denote this integer by gcd(a, b). When gcd(a, b) = 1, we say a and b are relatively prime."
   }
 ]

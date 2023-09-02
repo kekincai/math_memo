@@ -6,5 +6,16 @@ categories: [抽象代数]
 # image: "image.jpg"
 ---
 
-# 抽象代数笔记
+# Contemporary Abstract Algebra
 
+## 0. Preliminaries
+
+> The whole of science is nothing more than a reﬁnement of everyday thinking.
+>
+> Albert Einstein, Physics and Reality
+
+Well Ordering Principle
+: Every nonempty set of positive integers contains a smallest member.
+
+Greatest Common Divisor, Relatively Prime Integers
+: The greatest common divisor of two nonzero integers a and b is the largest of all common divisors of a and b. We denote this integer by gcd(a, b). When gcd(a, b) = 1, we say a and b are relatively prime.
