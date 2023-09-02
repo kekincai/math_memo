@@ -1,0 +1,28 @@
+project:
+  type: website
+  preview:
+    port: 1024
+    browser: false
+
+website:
+  title: "Math Notes"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/kekincai/math_memo
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    highlight-style: a11y
+    html-math-method: mathjax
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
+    code-annotations: hover
+
+
+
